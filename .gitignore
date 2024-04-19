@@ -11,6 +11,6 @@ __pycache__/
 *.db
 
 # Ignroe the config file with database password
-config.py
+# config.py
 .env
 
